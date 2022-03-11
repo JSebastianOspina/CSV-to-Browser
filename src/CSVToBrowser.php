@@ -3,7 +3,7 @@
 /**
  *
  */
-class PHPToBrowser
+class CSVToBrowser
 {
     /**
      * @var
