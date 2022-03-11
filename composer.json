@@ -1,0 +1,20 @@
+{
+  "name": "ospina/csv-to-browser",
+  "description": "Generate CSV files from arrays and send them directly into the browser",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Sebastian Ospina",
+      "email": "sebastianospina@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ospina\\": "src/"
+    }
+  }
+}
